@@ -13,6 +13,6 @@ Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 LinkingTo: cpp11
 NeedsCompilation: yes
-Packaged: 2024-06-03 18:19:21 UTC; chainsawriot
+Packaged: 2024-06-03 18:51:56 UTC; chainsawriot
 Author: A freak [aut, cre] (YOUR-ORCID-ID)
 Maintainer: A freak <chainsawtiney@gmail.com>
