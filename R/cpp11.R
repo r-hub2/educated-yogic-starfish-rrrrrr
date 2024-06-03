@@ -3,3 +3,7 @@
 times_two_cpp11 <- function(x) {
   .Call(`_rrrrrr_times_two_cpp11`, x)
 }
+
+gen_dummy <- function() {
+  .Call(`_rrrrrr_gen_dummy`)
+}
