@@ -932,7 +932,7 @@ inline r_vector<T>::operator SEXP() const {
       nms = truncate(nms, length_, capacity_);
       names() = nms;
     }
-    UNPROTECT(nms);
+    UNPROTECT(1);
 #endif
   }
   return data_;
